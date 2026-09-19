@@ -1,0 +1,5 @@
+# lc-progress v2
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-03T04:07:29.805Z	cnyamful2496/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	0/0	2026-09-03T04:23:41.890Z	cnyamful2496/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-03T04:19:43.297Z	cnyamful2496/lightcodepedia
+crc ed49123a
