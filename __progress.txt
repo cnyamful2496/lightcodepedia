@@ -3,5 +3,6 @@ gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	202
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	0/0	2026-09-03T04:23:41.890Z	cnyamful2496/lightcodepedia
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-03T04:19:43.297Z	cnyamful2496/lightcodepedia
 gh:michelzam/lightcodepedia/docs/_410/databases/module_05	0/0	1/1	2026-10-18T03:10:10.491Z	cnyamful2496/lightcodepedia
-gh:michelzam/lightcodepedia/docs/_410/databases/module_06	0/0	1/1	2026-10-18T03:21:27.475Z	cnyamful2496/lightcodepedia
-crc 3ba01719
+gh:michelzam/lightcodepedia/docs/_410/databases/module_06	0/0	1/1	2026-10-18T05:53:05.188Z	cnyamful2496/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_07	0/0	1/1	2026-10-18T06:50:42.568Z	cnyamful2496/lightcodepedia
+crc d59e3b14
